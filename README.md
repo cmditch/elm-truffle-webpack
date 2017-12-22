@@ -1,5 +1,8 @@
 # elm-truffle-webpack-starter
 
+ !!!!!
+## STILL UNDER CONSTRUCTION, ELM CONTRACT INTERFACE GENERATOR STILL IN THE WORKS
+ !!!!!
 
 ### About:
 A Webpack setup for writing [Elm](http://elm-lang.org/) + [Web3](https://github.com/ethereum/web3.js/) apps:
